@@ -32,7 +32,7 @@ spec:
 
       containers:
       - name: cbs-kafka-stream
-        image: groot.mcloud.com:5000/micro:CBS_CLZ_COM-2024-12-03-37
+        image: groot.mcloud.com:5000/micro:CBS_CLZ_COM-2024-12-03-38
 #        resources:
 #          requests:
 #            memory: "1024Mi"
